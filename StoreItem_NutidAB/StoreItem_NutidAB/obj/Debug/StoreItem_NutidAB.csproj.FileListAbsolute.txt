@@ -1,0 +1,13 @@
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\bin\Debug\StoreItem_NutidAB.exe.config
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\bin\Debug\StoreItem_NutidAB.exe
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\bin\Debug\StoreItem_NutidAB.pdb
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.csprojResolveAssemblyReference.cache
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.Properties.Resources.resources
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.csproj.GenerateResource.cache
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.csproj.CoreCompileInputs.cache
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.exe
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.pdb
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.Form1.resources
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\bin\Debug\Newtonsoft.Json.dll
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\bin\Debug\Newtonsoft.Json.xml
+c:\users\spoorthy\source\repos\StoreItem_NutidAB\StoreItem_NutidAB\obj\Debug\StoreItem_NutidAB.csproj.CopyComplete
